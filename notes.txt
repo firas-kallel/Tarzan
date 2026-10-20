@@ -1,4 +1,4 @@
-Activer mon venv,".\venv\Scripts\activate"
+Activer mon environnement,"conda activate initiation-python"
 "Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned"
 
 

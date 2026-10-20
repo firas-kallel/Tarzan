@@ -1,4 +1,17 @@
+# Environnements virtuels (au cas où)
+.conda/
+envs/
 venv/
+.venv/
+
+# Caches d'exécution Python
 __pycache__/
 *.pyc
+
+# Configuration VS Code locale
 .vscode/
+
+# Fichiers système et journaux
+*.log
+.DS_Store
+Thumbs.db
